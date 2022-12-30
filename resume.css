@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+h3{
+    text-align: center;
+    padding-bottom:30px;
+}
+#main-container{
+    margin-top: 20px;
+    border: 1px solid grey;
+    padding: 20px 50px 20px 50px;
+    width: 1000px;
+    background-color:bisque;
+    
+
+}
+#p{
+    margin: 5px;
+}
+#gender{
+    margin-left:30px;
+    padding-bottom: 1rem;
+}
+#s{
+    width: 80%;
+    height: 50px;
+}
+#h{
+    width: 80%;
+    height: 50px;
+}
